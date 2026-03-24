@@ -4,7 +4,7 @@ const SectionLayout = ({ id, title, highlight, children }) => {
   return (
     <section 
     id={id}
-    className="min-h-[90vh] md:min-h-screen relative flex flex-col justify-start md:justify-center text-white px-6 md:px-16">
+    className="min-h-[96vh] md:min-h-screen relative flex flex-col justify-start md:justify-center text-white px-6 md:px-16">
 
       {/* 🔥 Top Left Heading */}
       <motion.div
