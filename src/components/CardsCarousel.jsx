@@ -78,6 +78,7 @@ const CardsCarousel = ({ data }) => {
               <img
                 src={card.image}
                 alt={card.title}
+                loading="lazy"
                 className="w-full h-full object-cover pointer-events-none"
               />
 
