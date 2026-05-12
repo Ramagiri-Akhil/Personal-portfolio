@@ -22,9 +22,9 @@ const cardData = [
   },
   {
     image: "/images/image4.webp",
-    title: "Personal Music Player",
-    description: "Creative UI animations",
-    link: "#",
+    title: "Snooker scoreboard",
+    description: "Real-time snooker scoring application",
+    link: "https://snooker-scoreboard-five.vercel.app/",
   },
 ]
 
